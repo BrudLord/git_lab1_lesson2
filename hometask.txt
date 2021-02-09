@@ -1,0 +1,9 @@
+Ветка master состоит из: boots_buttons; hat.
+Ветка demo состоит из: boots; buttons; hat.
+В удаленном репозитории 6 коммитов:
+first version.
+boots
+dots
+Merge branch 'buttons' into boots_buttons
+first version.
+end version.
